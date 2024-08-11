@@ -1,0 +1,48 @@
+body{
+     background-color: blueviolet;
+     color: #fff;
+     text-align: center;
+}
+li{
+    list-style-type: none;
+}
+.header{
+    background-color: red;
+    border : 1px solid black
+    
+}
+
+.header nav ul li a{
+    color: #fff ;
+    
+}
+.main-section{
+    background-color: #333;
+    border: 1px solid black;
+    margin-top: 50px;
+    padding: 50px;
+}
+.form-section{
+    background-color: blue;
+    border: 1px solid black;
+    margin-top: 50px;
+    padding: 50px;
+}
+.table-section{
+    background-color: pink;
+    color: #333;
+    border: 1px solid black;
+}
+.table-section table{
+    width: 100%;
+}
+.quote-section{
+    background-color: bisque;
+    color: #333;
+    border: 1px solid black;
+}
+.video-section{
+    background-color: #b4defa;
+    color: #333;
+    border: 1px solid black;
+}
